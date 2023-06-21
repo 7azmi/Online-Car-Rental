@@ -68,7 +68,7 @@ error_reporting(0);
   <div class="container">
     <div class="section-header text-center">
       <h2>Find the Best <span>Car For You</span></h2>
-      <p>It is above all the uncompromising, performance-oriented aesthetic that unmistakeably reveals its ambitions. Not elegant but extravagant. Not conventional but individual.</p>
+      <p>Daringly unconventional, the design exudes an audacious allure that unapologetically embraces individuality and shuns conformity.</p>
     </div>
     <div class="row"> 
       
