@@ -68,7 +68,7 @@ error_reporting(0);
   <div class="container">
     <div class="section-header text-center">
       <h2>Find the Best <span>Car For You</span></h2>
-      <p>hehe boi.#2</p>
+      <p>hehe boi.#3</p>
     </div>
     <div class="row"> 
       
