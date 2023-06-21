@@ -68,7 +68,7 @@ error_reporting(0);
   <div class="container">
     <div class="section-header text-center">
       <h2>Find the Best <span>Car For You</span></h2>
-      <p>Daringly unconventional, the design exudes an audacious allure that unapologetically embraces individuality and shuns conformity..</p>
+      <p>hehe boi</p>
     </div>
     <div class="row"> 
       
