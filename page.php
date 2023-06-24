@@ -81,10 +81,11 @@ foreach($results as $result)
 <section class="about_us section-padding">
   <div class="container">
     <div class="section-header text-center">
-
+      
 
       <h2><?php   echo htmlentities($result->PageName); ?></h2>
-      <p><?php  echo $result->detail; ?> </p>
+      
+      <p style="text-align: justify;"> With over 40 years of experience, our car rental company has established itself as a trusted leader in the industry. We pride ourselves on delivering exceptional services and have built a reputation for quality, reliability, and customer satisfaction. Offering a diverse fleet of vehicles to cater to various needs, we ensure flexibility and convenience for our customers. Our extensive expertise allows us to anticipate and exceed customer expectations, while our commitment to maintaining a well-maintained fleet ensures safety and comfort. With a global presence and a focus on personalized attention, transparent pricing, and convenient rental options, we strive to provide a seamless and enjoyable car rental experience. Choose us as your preferred car rental partner and experience our legacy of excellence firsthand.</p>
     </div>
    <?php } }?>
   </div>

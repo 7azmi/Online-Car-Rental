@@ -90,12 +90,17 @@ Version:1.0
 ==========================*/
 
 body {
-	font-family: 'Lato', sans-serif;
-	margin:0px;
-	padding:0px !important;
-	overflow-x:hidden;
-	color:#555555;
+  font-family:'Open Sans', sans-serif;
+  margin:20px;
+  padding:20px;
+  overflow-x:scroll;
+  background-color:#fafafa;
+  color:#333333;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
 
 
 /*----------------------
@@ -1064,7 +1069,7 @@ nav.navbar {
 	3.1. Banner
 -------------------------------*/
 .banner-section {
-  background-image: url("../images/banner.jpg");
+  background-image: url("../images/banner-1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1354,7 +1359,7 @@ nav.navbar {
 	3.5. Fun-Facts
 -----------------------------*/
 .fun-facts-section {
-  background: rgba(0, 0, 0, 0) url("../images/fun-facts-bg.jpg") repeat scroll 0 0;
+  background: rgba(0, 0, 0, 0) url("../images/help_bg.jpg") repeat scroll 0 0;
   padding: 100px 0;
   position: relative;
 }
@@ -1562,7 +1567,7 @@ nav.navbar {
 	3.8 Testimonial-Section
 -----------------------------*/
 .testimonial-section {
-  background-image: url("../images/testimonial-bg.jpg");
+  background-image: url("../images/listing_img3.jpg");
 }
 .white-text h2 {
   color: #ffffff;
@@ -2212,13 +2217,13 @@ form .slider.slider-horizontal {
 }
 .testimonial_wrap .testimonial-img {
   float: none;
-  height: 135px;
-  left: inherit;
+  height: 50px;
+  left: 50%;
   margin: 0 auto 20px;
   position: relative;
-  right: inherit;
-  top: inherit;
-  width: 135px;
+  right: auto;
+  top: -70px;
+  width: 50px;
 }
 .testimonial_wrap .testimonial-heading::after {
 	display:none;
@@ -2227,7 +2232,7 @@ form .slider.slider-horizontal {
   color: rgba(0, 0, 0, 0.1);
   content: "";
   font-family: fontawesome;
-  font-size: 100px;
+  font-size: 60px;
   left: 25px;
   line-height: 28px;
   position: absolute;
