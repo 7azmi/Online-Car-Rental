@@ -47,9 +47,7 @@ To set up the Online Car Rental System locally, follow these steps:
 
 Check out this video for a demonstration of the Online Car Rental System: [YouTube Video](https://youtu.be/-xo4EPT_MoA)
 
-## Acknowledgments
+## Life Saviour
 
 The source code for this project can be found at: [Online Car Rental System - Source Code](https://www.sourcecodester.com/cc/14145/online-car-rental-system-using-phpmysql.html)
-
-Please note that this project was initially developed as a group project for educational purposes. If you decide to use this project, remember to modify and tweak it to suit your specific requirements and add your personal touch.
 
